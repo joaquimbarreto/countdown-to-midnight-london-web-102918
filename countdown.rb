@@ -2,8 +2,9 @@
 
 def countdown
   number = 0 
-  while number  
-    puts "#{x} is less than 10"
+  while number < 
+    puts "HAPPY NEW YEAR!"
     x - 1
-end
+  end
+  puts "HAPPY NEW YEAR!"
 end
