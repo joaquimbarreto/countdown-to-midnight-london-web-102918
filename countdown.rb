@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(number)
+def countdown
   while number >= 0 do
     puts "#{number} SECOND(S)!"
     x -= 1
@@ -9,7 +9,7 @@ def countdown(number)
 end
 
 
-def countdown_with_sleep(number)
+def countdown_with_sleep
   while number >= 0 do
     puts "#{number} SECOND(S)!"
     x -= 1
